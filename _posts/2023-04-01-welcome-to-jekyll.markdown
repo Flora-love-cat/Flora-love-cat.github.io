@@ -6,8 +6,7 @@ categories: jekyll update
 ---
 You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
 
-<iframe src="https://nbviewer.jupyter.org/github/Flora-love-cat/CPSC552/blob/main/1introDL.ipynb" width="100%" height="800" frameborder="0"></iframe>
-
+<iframe src="https://colab.research.google.com/github/Flora-love-cat/CPSC552/blob/main/notes/8FeedforwardNN.ipynb" width="100%" height="800"></iframe>
 
 Jekyll requires blog post files to be named according to the following format:
 
