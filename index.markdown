@@ -4,14 +4,6 @@
 
 layout: home
 ---
-{% jupyter https://github.com/Flora-love-cat/CPSC552/blob/main/1introDL.ipynb %}
 
-<!-- <!DOCTYPE html>
-<html>
-<head>
-	<title>My Jupyter Notebook</title>
-</head>
-<body>
+
 	<iframe src="https://github.com/Flora-love-cat/CPSC552/blob/main/1introDL.ipynb" width="100%" height="800"></iframe>
-</body>
-</html> -->
