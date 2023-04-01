@@ -6,4 +6,4 @@ layout: home
 ---
 
 
-	<iframe src="https://github.com/Flora-love-cat/CPSC552/blob/main/1introDL.ipynb" width="100%" height="800"></iframe>
+    
